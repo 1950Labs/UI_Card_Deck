@@ -14,6 +14,8 @@ Our design team has been working on a collection of user interface cards that re
 
 We manage the biggest community of developers, designers and testers ( UruguayIT.com ). Due to that, if we don’t have available the talent you need, we can find it faster than any other company in LATAM.
 
+You can check our work on [Dribbble](https://dribbble.com/1950labs) and follow us to find about our new posts and projects!
+
 Please route all business inquiries to hello@1950labs.com.
 
 For any design inquiry please contact us at uiux@1950labs.com
